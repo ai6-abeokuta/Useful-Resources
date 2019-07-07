@@ -1,5 +1,5 @@
 # Useful-Resources
-Hello great minds :smiley:, we are glad to have you here. This is the official repository of AI Saturdays, Abeokuta Chapter containing every of the useful resources we share in class forevery of our meetups. 
+Hello great minds :smiley:, we are glad to have you here. This is the official repository of AI Saturdays, Abeokuta Chapter containing every of the useful resources we share in class for every of our meetups. 
 The repository is structured in a way which makes it so easy so easy to navigate through any cycle and any week. The folder structure of the repository is shown below.
 
 + Userful Resources
