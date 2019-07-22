@@ -4,27 +4,40 @@ The repository is structured in a way which makes it so easy so easy to navigate
 
 + Userful Resources
     + Cycle 1
-        - Resources.MD
+        - README.md
     + Cycle 2
         + Week 1
-            - Resoucrces.MD
+            - RREADME.md
         + Week 2
-            - Resources.MD
+            - README.md
         + Week 3
-            - Resources.MD
+            - README.md
         + Week 4
-            - Resources.MD
+            - README.md
         + Week 5
-            - Resources.MD
+            - README.md
         + Week 6
-            - Resources.MD
+            - README.md
         + Week 7
-            - Resources.MD
+            - README.md
         + Week 8
-            - Resources.MD
+            - README.md
         + Week 9
-            - Resources.MD
-            
+            - README.md
+        + Week 10
+            - README.md
+        + Week 11
+            - README.md
+        + Week 12
+            - README.md
+        + Week 13
+            - README.md
+        + Week 14
+            - README.md
+        + Week 15
+            - README.md
+        + Week 16
+            - README.md
 There is a folder for each cycles resources, we are sorry cycle one's folder is sort of banged out. Each folder contains each weeks work and resources.
 
 If you feel we might need to re-order this in a better way, feel free to open an issue. Also, if you feel there is one piece of informaton missing or we could have made something slightly better, feel free to open a PR. We would review it as soon as we can. Addios :heartpulse:
